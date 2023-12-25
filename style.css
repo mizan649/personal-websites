@@ -1,0 +1,57 @@
+
+h2{
+  font-size:50px;
+}
+h3{
+  font-size:40px;
+}
+p{
+  color:gray;
+}
+.link-button{
+  text-decoration: none;
+  padding: 10px 15px 10px 15px;
+  border-radius: 5px;
+  color:white;
+  background-color:rgb(255, 0, 93);
+}
+
+.pink-highlit{
+  color:rgb(255, 0, 136);
+}
+section{
+  height: 500px;
+  padding-bottom:0px;
+}
+.header-section{
+  background-image:url(image/header-bg.png);
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.biography-section{
+  background-image: url(image/biography-bg.png);
+}
+.work-section{
+  background-image: url(image/latest-work-bg.png);
+  background-repeat: no-repeat;
+}
+.half-width{
+  width: 40%;
+  float: left;
+  margin-left:5%;
+  padding-left:2%;
+  padding-top:10% ;
+}
+.half-width img{
+  width: 50%;
+}
+.half-width1{
+  width: 25%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 2%;
+}
+.half-width1 img{
+  width:80%;
+}
+  
